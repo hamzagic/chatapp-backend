@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://fhamzagic:test1234@chatapp-4xmpp.mongodb.net/chat_db?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:3000"
+}
